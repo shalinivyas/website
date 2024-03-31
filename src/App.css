@@ -51,6 +51,9 @@ nav.bg-dark {
   border: 1px #94bbb8 solid !important;
   background-color: #fff !important;
   color: black;
+  text-transform: uppercase;
+  border-radius: 5%;
+
 }
 
 .resume-button:hover {
