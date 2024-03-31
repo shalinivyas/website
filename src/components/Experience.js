@@ -38,7 +38,7 @@ const Experience = () => {
           <div className="marker"></div>
           <div className="timeline-content">
             <h3>Jan 2024-Present | Graduate Teaching Assistant</h3>
-            <p className="content">1. Facilitated lab sessions for 400+ Introduction to Computer Science students, offering hands-on guidance. Oversaw grading tasks and addressed student queries, ensuring their comprehension of course material. </p>   
+            <p className="content">Facilitated lab sessions for 400+ Introduction to Computer Science students, offering hands-on guidance. Oversaw grading tasks and addressed student queries, ensuring their comprehension of course material. </p>   
           </div>
         </div>
         {/* - */}
