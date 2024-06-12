@@ -19,7 +19,7 @@ const Education = () => {
                     <div class="col-full text-justify mx-6 my-2 collegeDesc">
                     <p>I am a highly motivated and progress-focused Graduate Student with a long-standing background in the IT industry. Learning under Professors like Hao Che, Rama Krishna Koganti, and Mike Siok was a great experience and having such friendly competitive peers brings out the most in me at all times. Being a part of such diversely rich maverick community, is teaching me a lot about other cultures and it always felt like family here.</p>
                     </div>
-                    <p><strong>Graduating in:</strong> May 2024</p>
+                    <p><strong>Graduated:</strong> May 2024</p>
 
                 </div>
 
